@@ -2,6 +2,7 @@
  hotel booking website and pdf reciept generate on confirmed booking on react.js 
  can also be used in firebase for third party verifications
 
+a backend can also be build upon this code ... this code is fully on frontend
 
 # to run install the required modules on npm
 Example : nmp install [required-module-name]
